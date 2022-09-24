@@ -4,7 +4,7 @@
 - 🎓 Sou graduanda em Análise e Desenvolvimento de Sistemas
 - 👩‍💻 Desenvolvedora de software voltada para o front-end
 
-<div style= "display:flex">
+<div style= "display:inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunaCarolinee&show_icons=true&theme=onedark">
   <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCarolinee&layout=compact&theme=onedark"/>
 <div/>
