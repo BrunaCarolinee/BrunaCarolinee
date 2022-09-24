@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruna-caroline-benedito)
 
 
-<div>
+<div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunaCarolinee&show_icons=true&theme=onedark">
   <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCarolinee&layout=compact&theme=onedark"/>
 <div/>
